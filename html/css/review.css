@@ -16,7 +16,7 @@ a.btn_reviewInput_qna , .rating_urcosme_box label , .contentBeautydiaryMainborde
 a.btn_reviewInput_qna { padding:0 0 0 25px; width:127px; height:24px; background-position:0 -100px; display:block; color:#de6c86; font-weight:bold; line-height:24px; text-decoration:none; margin:5px 0 0;}
 a.btn_reviewInput_qna:hover { color:#ed8099;}
 .rating_urcosme_box { /*background-color:#ffedf4;*/ margin:5px 10px 10px; padding:10px 0;}
-.rating_urcosme_box label { height:45px; display:inline-block; text-align:center; margin:0 5px; float:left;}
+.rating_urcosme_box label { height:45px; /*display:inline-block;*/ text-align:center; margin:0 5px; float:left;}
 .rating_urcosme_box span { float:left; margin:21px 0 0 3px;}
 label.rating_urcosme_zero { width:60px; background-position:14px 15px;}
 label.rating_urcosme_zero:hover , label.rating_urcosme_zeroClick { background-position:14px -35px;}
@@ -38,17 +38,17 @@ label.rating_urcosme_7:hover , label.rating_urcosme_7click { background-position
 
 .contentBeautydiaryMainborder .review_optional_tag { background-position:0 -243px; margin:5px 10px; padding:0 0 0 8px; font-weight:bold;}
 .contentBeautydiaryMainborder .review_optional_input { margin:5px 12px;}
-.contentBeautydiaryMainborder .review_optional_input label {display:inline-block; margin:2px 0; line-height:1.25em;}
+.contentBeautydiaryMainborder .review_optional_input label {/*display:inline-block;*/ margin:2px 0; line-height:1.25em;}
 .contentBeautydiaryMainborder .product_overview_detail { background-color:#edf3ff; padding:0 5px 5px; margin:10px 0 0; -webkit-border-radius:2px; -moz-border-radius:2px; border-radius:2px; }
 .contentBeautydiaryMainborder .product_overview_detail_content { margin:0 0 5px 0;}
 .contentBeautydiaryMainborder .product_overview_detail_content hr { border:none; border-top:#bebebe solid 1px; margin:5px;}
-.contentBeautydiaryMainborder .product_overview_detail_arrow { position:relative; border-bottom:6px solid #edf3ff; border-left:8px solid transparent; border-right:8px solid transparent; display:inline-block;}
+.contentBeautydiaryMainborder .product_overview_detail_arrow { position:relative; border-bottom:6px solid #edf3ff; border-left:8px solid transparent; border-right:8px solid transparent; /*display:inline-block;*/}
 .contentBeautydiaryMainborder .product_overview_detail_arrow_inner { border-bottom:0px solid #fff; border-left:6px solid transparent; border-right:6px solid transparent; position:absolute; left:-6px; top:0px;}
 .contentBeautydiaryMainborder .arrow_position_original { left:0px; top:-6px;}
 .contentBeautydiaryMainborder .arrow_position_sample { left:65px; top:-6px;}
 .contentBeautydiaryMainborder .recommend_task { background-color:#edf3ff; padding:10px; margin:10px; -webkit-border-radius:2px; -moz-border-radius:2px; border-radius:2px; display:none;}
 .contentBeautydiaryMainborder .recommend_task p { line-height:1.25em; margin:0 0 3px 0;}
-.contentBeautydiaryMainborder .recommend_task label { margin:3px 0; display:inline-block;}
+.contentBeautydiaryMainborder .recommend_task label { margin:3px 0; /*display:inline-block;*/}
 
 ul.review_effect { margin:5px 12px; height:70px; overflow:hidden;}
 ul.review_effect li { width:95px; float:left; margin:2px 0;}
